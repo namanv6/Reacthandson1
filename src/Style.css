@@ -16,19 +16,22 @@ body {
     .vin{
         color:chartreuse;
     }
-    .fun{
-      background-color:aqua; 
-      border:none;
-      font-weight: bolder;
-      font-size: 20px;
-      height: 60px;
-      width: 400px;
-      text-align: center;
-      border-radius: 60px ;
-      position: absolute;
-      top: 200px;
-      left: 450px;
-      cursor: pointer;
+    .fun {
+    background-color: aqua;
+    border: none;
+    border-radius: 60px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bolder;
+    height: 64px;
+    left: 112px;
+    position: relative;
+    text-align: center;
+    top: 102px;
+    width: 400px;
+
+
+
       
       
     }
